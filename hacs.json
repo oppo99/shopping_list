@@ -1,0 +1,5 @@
+{
+  "name": "Shopping List",
+  "domains": ["shopping_list"],
+  "render_readme": true,
+}
